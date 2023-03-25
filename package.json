@@ -1,5 +1,5 @@
 {
-  "name": "@wiseweb/core",
+  "name": "wiseweb-core",
   "version": "1.0.0",
   "description": "Wisemen Core for Web Applications",
   "main": "index.ts",
